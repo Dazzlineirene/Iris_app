@@ -4,7 +4,7 @@ import pickle
 
 # 1. Load the pre-trained model
 # Ensure the .pkl file is in the same directory as this script
-model = pickle.load(open("model.pkl", "rb"))
+model = pickle.load(open("C:\\Users\\eyehc\\Downloads\\model.pkl", "rb"))
 
 
 st.write("""
